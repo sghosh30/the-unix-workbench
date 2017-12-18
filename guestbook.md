@@ -113,4 +113,7 @@
 - Aris kumar
 - Charles Zhang
 - coolestxuxu
+- Charles
+- Frank
 - Sougata Ghosh
+- Amanda Sim
